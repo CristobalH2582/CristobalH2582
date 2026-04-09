@@ -33,6 +33,9 @@ Actualmente me encuentro en una transición profesional desde la **Administraci�
 
 ---
 
+### 📈 Mis Repositorios
+
+* **[Repositorios](https://github.com/CristobalH2582?tab=repositories):** Diversos codigos de estudios con sus correspondientes markdown para una exploración con diversos usos de Python y sus librerías.
 ### 📫 Contacto / Contact
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crist%C3%B3bal-hernandez-97m/)
