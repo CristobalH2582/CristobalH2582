@@ -14,6 +14,20 @@ Actualmente me encuentro en una transición profesional desde la **Administraci�
 - 🇨🇱 **Ubicación:** Chile.
 
 ---
+# Hi! I'm Cristóbal 👋 🇨🇱
+
+### Public Administrator & Aspiring Data Scientist 📊
+*Passionate about the intersection of public management and data analysis to generate social impact and administrative efficiency.*
+
+---
+
+### 🚀 About Me
+
+I am currently in a professional transition from **Public Administration** to the world of **Data Science**. My approach combines the strategic and regulatory vision of the public sector with advanced analytical tools to transform raw data into informed decisions.
+
+- 🎓 **Professional Background:** Public Administrator.
+- 🎯 **Objective:** Apply Machine Learning and Big Data to optimize government processes and citizen services.
+- 🇨🇱 **Location:** Chile.
 
 ### 🧪 Mi Caja de Herramientas / My Toolbox
 
