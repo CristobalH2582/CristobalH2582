@@ -28,7 +28,7 @@ Actualmente me encuentro en una transición profesional desde la **Administraci�
 
 ### 📈 Proyectos Destacados
 
-* **[StyleNet](https://github.com/tu-usuario/stylenet):** Clasificación de artículos de moda utilizando Redes Neuronales Convolucionales (CNN). Una exploración profunda en Computer Vision.
+* **[StyleNet](https://github.com/CristobalH2582/EXAMENMODULO8DEEPLEARNING):** Clasificación de artículos de moda utilizando Redes Neuronales Convolucionales (CNN). Una exploración profunda en Computer Vision.
 * **[RetailMax](https://github.com/CristobalH2582/EXAMENMODULO9):** Procesamiento de grandes volúmenes de datos e-commerce utilizando PySpark para el análisis y predicción de métricas de ventas.
 
 ---
